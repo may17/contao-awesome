@@ -64,6 +64,7 @@ If you find your blog in this list and like to add more informations, just creat
 - https://contao-academy.de/contao-blog/cat/Contao+3
 - https://easysolutionsit.de/blog.html
 - https://contao.ninja/
+- https://kirsten-roschanski.de/blog
 
 ## Videos
 
