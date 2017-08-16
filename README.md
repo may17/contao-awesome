@@ -24,7 +24,7 @@ This ist the right place for international board topics.
 ### Contao Wiki | https://de.contaowiki.org
 The Contao wiki is a unoffical community driven wiki for the Contao Cms.
 
-## Organisations
+## Organization
 
 ### Contao Association | https://association.contao.org
 The Contao Association is the official organization behind the Contao CMS.
