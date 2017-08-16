@@ -1,6 +1,6 @@
 # Contao Awesome
 
-This is a collection of awesome ressources about the Contao CMS ecosystem.
+This is an unoffical collection of awesome ressources about the Contao CMS ecosystem.
 
 ## Your help is welcome!
 If you like to support this project just create issues or even better, pull requests!
