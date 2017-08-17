@@ -97,3 +97,12 @@ Unofficial commercial service with high quality learn videos.
 
 ### Official Contao Theme Store | https://themes.contao.org/de/
 This is the official Contao Cms theme store. If you need a theme, this is the official place.
+
+### Unofficial Theme Stores
+
+- https://www.premium-contao-themes.com/
+- https://rocksolidthemes.com/de/contao/themes
+- https://www.contao-themes-shop.de/
+- http://contaobestthemes.silbersaiten.de/35-contao-themes
+- https://www.contao-theme.de/
+- 
