@@ -24,13 +24,16 @@ This ist the right place for international board topics.
 ### Contao Wiki | https://de.contaowiki.org
 The Contao wiki is a unoffical community driven wiki for the Contao Cms.
 
-## Organization
+## Organizations & Groups
 
 ### Contao Association | https://association.contao.org
 The Contao Association is the official organization behind the Contao CMS.
 
 ### Contao Community Alliance | https://c-c-a.org/
 The CCA is an independent inofficial organization that supports the Contao CMS. They developed the Contao Composer Client and resolving security issues.
+
+### Contao Pool | https://contao-pool.de/
+The Contao Pool is a network of people who work with Contao CMS located in the german state Nordrhein Westphalen. They organize the locale meetupus and the NRW Day.
 
 ## Events
 
@@ -65,6 +68,8 @@ If you find your blog in this list and like to add more informations, just creat
 - https://easysolutionsit.de/blog.html
 - https://contao.ninja/
 - https://kirsten-roschanski.de/blog
+- https://www.contao-bayern.de/blog.html
+- https://www.pergamon-interactive.de/blog.html
 
 ## Videos
 
