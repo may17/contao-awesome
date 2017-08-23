@@ -70,6 +70,7 @@ If you find your blog in this list and like to add more informations, just creat
 - https://kirsten-roschanski.de/blog
 - https://www.contao-bayern.de/blog.html
 - https://www.pergamon-interactive.de/blog.html
+- https://github.com/Sioweb/Contao4DummyBundle
 
 ## Videos
 
