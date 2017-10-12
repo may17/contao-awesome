@@ -59,6 +59,7 @@ The Contao Austria Day is a inofficial community driven event by the austrian Co
 If you find your blog in this list and like to add more informations, just create an issue or pull request!
 
 ### Blogs and Tutorials
+- https://docs.contao.org/books/cookbook/
 - https://www.contao-fuer-webdesigner.de/blog.html
 - https://rocksolidthemes.com/de/contao/blog/
 - https://www.fast-end-media.de/blog/
