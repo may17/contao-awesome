@@ -108,4 +108,4 @@ This is the official Contao Cms theme store. If you need a theme, this is the of
 - https://www.contao-themes-shop.de/
 - http://contaobestthemes.silbersaiten.de/35-contao-themes
 - https://www.contao-theme.de/
-- 
+- http://solo.erdmann-freunde.de/projekte/solo.html
