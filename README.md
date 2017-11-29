@@ -64,7 +64,7 @@ If you find your blog in this list and like to add more informations, just creat
 - https://rocksolidthemes.com/de/contao/blog/
 - https://www.fast-end-media.de/blog/
 - https://kikmedia.de/de/blog.html
-- https://erdmann-freunde.de/ressourcen/projekt-santa-maria/
+- https://erdmann-freunde.de/logbuch-uebersicht/
 - https://contao-academy.de/contao-blog/cat/Contao+3
 - https://easysolutionsit.de/blog.html
 - https://contao.ninja/
@@ -108,4 +108,4 @@ This is the official Contao Cms theme store. If you need a theme, this is the of
 - https://www.contao-themes-shop.de/
 - http://contaobestthemes.silbersaiten.de/35-contao-themes
 - https://www.contao-theme.de/
-- http://solo.erdmann-freunde.de/projekte/solo.html
+- https://erdmann-freunde.de/produkte/contao-themes/
