@@ -73,6 +73,7 @@ If you find your blog in this list and like to add more informations, just creat
 - https://www.pergamon-interactive.de/blog.html
 - https://github.com/Sioweb/Contao4DummyBundle
 - https://www.marcosimbuerger.ch/contao-kurzanleitungen.html
+- https://www.premium-contao-themes.com/news.html
 
 ## Videos
 
