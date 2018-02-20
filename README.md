@@ -74,6 +74,7 @@ If you find your blog in this list and like to add more informations, just creat
 - https://github.com/Sioweb/Contao4DummyBundle
 - https://www.marcosimbuerger.ch/contao-kurzanleitungen.html
 - https://www.premium-contao-themes.com/news.html
+- https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a
 
 ## Videos
 
