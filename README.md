@@ -76,6 +76,7 @@ If you find your blog in this list and like to add more informations, just creat
 - https://www.premium-contao-themes.com/news.html
 - https://gist.github.com/joergmoldenhauer/84dab927446e316c2e02760e4506b86a
 - https://blog.calm-n-easy.de/archiv/tag/contao
+- https://brkwsky.de/blog.html
 
 ## Videos
 
