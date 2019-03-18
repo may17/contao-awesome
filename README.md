@@ -85,6 +85,10 @@ Unofficial commercial service with high quality learn videos.
 
 ### Youtube Playlists
 
+- Contao Conference 2018
+  https://www.youtube.com/playlist?list=PLJlEgN85jW8G-eIo3UblM-P606BFlHxUr
+- Contao Nordtag 2018
+  https://www.youtube.com/playlist?list=PLJlEgN85jW8HDJlPCvlcFaFJTkjQtxbGd
 - Contao Conference 2017
   https://www.youtube.com/playlist?list=PLJlEgN85jW8FcZogc52-XTLc3GQjDLUMH
 - Contao Nordtag 2017
